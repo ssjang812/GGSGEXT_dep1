@@ -6,6 +6,8 @@
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
+/[Hh]ololensBuild/
+/[Pp]honeBuild/
 Assets/AssetStoreTools*
 Assets/EntityCache
  
